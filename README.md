@@ -15,7 +15,7 @@
 
 
 
-  <img src="https://myreadme.vercel.app/api/embed/VaradScript?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/VaradScript?panels=userstatistics,toprepositories,toplanguages,commitgraph"  />
 </div>
 
 ## About Me
