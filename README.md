@@ -11,7 +11,6 @@
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VaradScript&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" />
   <img alt="followers" src="https://img.shields.io/github/followers/VaradScript?label=Followers&labelColor=%236A7DA8&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/VaradScript?label=Stars&labelColor=%236A7DA8&style=for-the-badge" alt="stars">
 
 
 
@@ -21,8 +20,8 @@
 
 ## About Me
 
-- AI/ML IoT Developer
-- CO-Founder of Code Glitch
+- AI/ML IoT Interested
+- supportive of Code Glitch
 
 
 
