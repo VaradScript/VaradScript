@@ -27,11 +27,11 @@
 
 ## Operating Systems I Use
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Expert-blue?style=flat&logo=kali-linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Expert-blue?style=flat&logo=ubuntu)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-Expert-blue?style=flat&logo=parrot)
-![Windows 11](https://img.shields.io/badge/Windows_11-Intermediate-yellow?style=flat&logo=windows)
-![Android](https://img.shields.io/badge/Android-Intermediate-yellow?style=flat&logo=android)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Intermediate-yellow?style=flat&logo=kali-linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Intermediate-yellow?style=flat&logo=ubuntu)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-Intermediate-yellow?style=flat&logo=parrot)
+![Windows 11](https://img.shields.io/badge/Windows_11-Expert-blue?style=flat&logo=windows)
+![Android](https://img.shields.io/badge/Android-Expert-blue?style=flat&logo=android)
 
 
 
