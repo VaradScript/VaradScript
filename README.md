@@ -68,10 +68,6 @@
 
 
 
-### Automation
-
-![IFTTT](https://img.shields.io/badge/IFTTT-Intermediate-yellow?style=flat&logo=ifttt)
-![Zapier](https://img.shields.io/badge/Zapier-Intermediate-yellow?style=flat&logo=zapier)
 
 ### Cloud Hosting
 
