@@ -1,9 +1,9 @@
 # Hi I,m 💬VaradScript
 
 ```
-👨‍💻 Code, Hack, Innovate
+👨‍💻 Code, Innovate
 🔓 Breaking barriers with code & cybersecurity
-💻 Tech Enthusiast | Ethical Hacker | OSINT Specialist
+💻 Tech Enthusiast | Ethical Hacker Bignner
 🛠️ Building tomorrow’s digital defenses
 ```
 ## Profile 
@@ -31,8 +31,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Expert-blue?style=flat&logo=kali-linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Expert-blue?style=flat&logo=ubuntu)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-Expert-blue?style=flat&logo=parrot)
-![Debian](https://img.shields.io/badge/Debian-Intermediate-yellow?style=flat&logo=debian)
-![BlackArch](https://img.shields.io/badge/BlackArch-Intermediate-yellow?style=flat&logo=arch-linux)
 ![Windows 11](https://img.shields.io/badge/Windows_11-Intermediate-yellow?style=flat&logo=windows)
 ![Android](https://img.shields.io/badge/Android-Intermediate-yellow?style=flat&logo=android)
 
