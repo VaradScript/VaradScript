@@ -1,91 +1,19 @@
-# Hi I,m 💬VaradScript
+<h1 align="center">Hi 👋, I'm VaradScript</h1>
+<h3 align="center">I am currently studying in BCA Degree .Having a lot intrest in IT field, And hungry gain Knowledge....Being Men☕!!!</h3>
 
-```
-👨‍💻 Code, Innovate
-🔓 Breaking barriers with code & cybersecurity
-💻 Tech Enthusiast | Ethical Hacker Bignner
-🛠️ Building tomorrow’s digital defenses
-```
-## Profile 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadscript&label=Profile%20views&color=0e75b6&style=flat" alt="varadscript" /> </p>
 
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaradScript&color=red&labelColor=%236A7DA8&style=for-the-badge" alt="watching_count" />
-  <img alt="followers" src="https://img.shields.io/github/followers/VaradScript?label=Followers&labelColor=%236A7DA8&style=for-the-badge">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varadscript" alt="varadscript" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varadscript&show_icons=true&locale=en&layout=compact" alt="varadscript" /></p>
 
-  <img src="https://myreadme.vercel.app/api/embed/VaradScript?panels=userstatistics,toprepositories,toplanguages,commitgraph"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varadscript&show_icons=true&locale=en" alt="varadscript" /></p>
 
-## About Me
-
-- AI/ML IoT Interested
-- supportive of Code Glitch
-
-
-
-## Operating Systems I Use
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Intermediate-yellow?style=flat&logo=kali-linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Intermediate-yellow?style=flat&logo=ubuntu)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-Intermediate-yellow?style=flat&logo=parrot)
-![Windows 11](https://img.shields.io/badge/Windows_11-Expert-blue?style=flat&logo=windows)
-![Android](https://img.shields.io/badge/Android-Expert-blue?style=flat&logo=android)
-
-
-
-## Skills
-
-### Coding
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow?style=flat&logo=php)
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-Expert-blue?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat&logo=css3)
-
-### Backend
-
-![Flask](https://img.shields.io/badge/Flask-Expert-blue?style=flat&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-yellow?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/Git-Intermediate-yellow?style=flat&logo=git)
-
-
-### AI/ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-blue?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-Expert-blue?style=flat&logo=opencv)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-blue?style=flat&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-yellow?style=flat&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Intermediate-yellow?style=flat&logo=scikit-learn)
-
-
-
-
-### Cloud Hosting
-
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Intermediate-yellow?style=flat&logo=github)
-
-
-
-
-## Find Me Online
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/VaradScript)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varadaraj-d-ganiga-5b50a1246/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/varadaraj007)
-
-
-## Code stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=VaradScript&show_icons=true&hide_border=true&theme=radical" />
-
-
-
-Feel free to connect and explore my repositories! 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varadscript&" alt="varadscript" /></p>
