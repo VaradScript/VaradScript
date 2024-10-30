@@ -75,9 +75,9 @@
 
 ## Find Me Online
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/haydenbanz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/technicalhayden)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/0x_hyd3n)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/VaradScript)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/varadaraj-d-ganiga-5b50a1246/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/varadaraj007)
 
 
 ## Code stats
