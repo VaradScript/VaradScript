@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VaradScript</h1>
-<h3 align="center">I am currently studying in MCA Degree .Having a lot intrest in IT field, And hungry gain Knowledge....Being Men☕!!!</h3>
+<h3 align="center">I am currently studying in MCA Degree .Having a lot intrest in IT field, And hungry gain Knowledge and Enjoy learnings....Being Men☕!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadscript&label=Profile%20views&color=0e75b6&style=flat" alt="varadscript" /> </p>
 
