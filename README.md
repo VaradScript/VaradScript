@@ -3,7 +3,7 @@
 <a href="https://github.com/jrohitofficial/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20ನಮಸ್ಕಾರ%20ಶುಭ ದಿನ;I'm%20VaradScript%20;%20Interest%20In%20CS ;PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>      
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadscript&label=Profile%20views&color=0e75b6&style=flat" alt="varadscript" /> </p>
@@ -26,9 +26,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varadscript&" alt="varadscript" /></p>
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
+
+                                                              
 
 
 
