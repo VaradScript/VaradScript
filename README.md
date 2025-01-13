@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3><br>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20ನಮಸ್ಕಾರ%20ಶುಭ ದಿನ;I'm%20VaradScript%20;%20Interest%20In%20CS ;PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20ನಮಸ್ಕಾರ%20ಶುಭ ದಿನ🙏;I'm%20VaradScript%20;%20Interest%20In%20CS ;PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>      
 
