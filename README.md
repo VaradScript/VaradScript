@@ -5,7 +5,6 @@
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>      
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadscript&label=Profile%20views&color=0e75b6&style=flat" alt="varadscript" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varadscript" alt="varadscript" /></a> </p>
 
