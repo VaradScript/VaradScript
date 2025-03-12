@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" alt="Thanks for Visiting" width="100%" />
+  <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" alt="Thanks for Visiting..." width="100%" />
 </p>
