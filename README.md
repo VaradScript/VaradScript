@@ -21,10 +21,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=varadscript&theme=onedark&margin-w=15&margin-h=15" alt="varadscript's GitHub Trophy" />
   </a>
-</p>
-*If the trophy isn’t displaying, ensure the username `varadscript` is correct or try refreshing the page later (GitHub caching issue).*
 
----
 
 ## 🌟 Connect with Me
 <p align="center">
