@@ -3,8 +3,28 @@
 </p>
 
 <h1 align="center">Hello, I’m VaradScript! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=ನಮಸ್ಕಾರ%20|%20ಶುಭ%20ದಿನ%20🙏;Computer%20Science%20Enthusiast;Programmer%20|%20Lifelong%20Learner&font=Fira%20Code¢er=true&width=500&height=40&color=20C20E&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
+
+
+<a href="https://github.com/jrohitofficial/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ನಮಸ್ಕಾರ%20|%20ಶುಭ%20ದಿನ%20🙏;Computer%20Science%20Enthusiast;Programmer%20|%20Lifelong%20Learner&font=Fira%20Code&center=true&width=500&height=40&color=20C20E&vCenter=true&pause=1000&size=24"center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+</a>
+
+
+  <!--
+<a href="https://jrohit.com.np">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Final.png" alt="Clickable Image">
+</a> 
+-->
+
+
+
+  <!-- Typing SVG by jrohitofficial - https://github.com/jrohitofficial/readme-typing-svg -->
 </p>
 
 
