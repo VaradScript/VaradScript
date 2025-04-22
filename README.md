@@ -4,9 +4,7 @@
 
 <h1 align="center">Hello, I’m VaradScript! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=ನಮಸ್ಕಾರ%20|%20ಶುಭ%20ದಿನ%20🙏;Computer%20Science%20Enthusiast;Programmer%20|%20Lifelong%20Learner&font=Fira%20Code&center=true&width=500&height=40&color=20C20E&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/jrohitofficial">
