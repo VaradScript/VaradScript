@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=ನಮಸ್ಕಾರ%20|%20ಶುಭ%20ದಿನ%20🙏;Computer%20Science%20Enthusiast;Programmer%20|%20Lifelong%20Learner&font=Fira+Code&center=true&width=900&height=40&color=20C20E&pause=1000&size=24" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=20C20E&center=true&vCenter=true&width=900&height=40&lines=ನಮಸ್ಕಾರ+%7C+ಶುಭ+ದಿನ+🙏;Computer+Science+Enthusiast;Programmer+%7C+Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
 
