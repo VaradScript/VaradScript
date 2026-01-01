@@ -19,13 +19,10 @@
 ---
 
 ## 🏆 My GitHub Trophy
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varadscript&theme=onedark&margin-w=15&margin-h=15" alt="varadscript's GitHub Trophy" />
-  </a>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=varadscript&show_icons=true&theme=onedark)
+![Streak](https://streak-stats.demolab.com/?user=varadscript&theme=onedark)
 
----
+
 
 ## 🛠️ Tech Stack
 
