@@ -19,8 +19,10 @@
 ---
 
 ## 🏆 My GitHub Trophy
-![Stats](https://github-readme-stats.vercel.app/api?username=varadscript&show_icons=true&theme=onedark)
-![Streak](https://streak-stats.demolab.com/?user=varadscript&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=varadscript" />
+</p>
+
 
 
 
