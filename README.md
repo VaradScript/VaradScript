@@ -19,7 +19,8 @@
 ---
 
 ## 🏆 My GitHub Trophy
-![GitHub Trophies](https://github-profile-svg.vercel.app/api/profile?username=varadscript&mode=readme)
+<img src="https://github-profile-svg.vercel.app/api/profile?username=varadscript&v=2" />
+
 
 
 
