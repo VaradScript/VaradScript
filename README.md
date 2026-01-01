@@ -19,10 +19,7 @@
 ---
 
 ## 🏆 My GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-svg.vercel.app/api/profile?username=varadscript" />
-</p>
-
+![GitHub Trophies](https://github-profile-svg.vercel.app/api/trophies?username=varadscript)
 
 
 
