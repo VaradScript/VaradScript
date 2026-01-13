@@ -19,9 +19,7 @@
 ---
 
 ## 🏆 My GitHub Trophy
-<img src="https://github-profile-svg.vercel.app/api/profile?username=varadscript&mode=cyberpunk&theme=dark" alt="My trophies" />
-
-
+![Cyberpunk Trophies](https://github-profile-svg.vercel.app/api/profile?username=VaradScript&mode=cyberpunk&v=2)
 
 
 
