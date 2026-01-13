@@ -77,10 +77,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 </p>
-## 📊 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadscript&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/jrohitofficial">
