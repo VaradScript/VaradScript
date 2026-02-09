@@ -4,6 +4,8 @@
 
 <h1 align="center">Hello, I’m VaradScript! 👋</h1>
 
+⁨![Profile Views](https://komarev.com/ghpvc/?username=VaradScript&label=Profile%20Views&color=0e75b6&style=flat)⁩
+
 <p align="center">
   <a href="https://github.com/jrohitofficial">
     <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
